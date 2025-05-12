@@ -1,5 +1,5 @@
 # 📊 COVID-19 Data Analysis and Visualization
-This project explores the **COVID-19 pandemic data** across selected countries (Kenya, United States, India) using Python and Jupyter Notebook. The analysis covers trends in cases, deaths, and vaccination rollouts, and highlights key patterns and insights.
+- This project explores the **COVID-19 pandemic data** across selected countries (Kenya, United States, India) using Python and Jupyter Notebook. The analysis covers trends in cases, deaths, and vaccination rollouts, and highlights key patterns and insights.
 ---
 ## 📁 Project Structure
 
